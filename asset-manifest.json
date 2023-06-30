@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swaingithub/react_upload.git/static/css/main.6e3c9636.css",
+    "main.js": "/swaingithub/react_upload.git/static/js/main.c97d7e03.js",
+    "static/js/787.0e31295a.chunk.js": "/swaingithub/react_upload.git/static/js/787.0e31295a.chunk.js",
+    "index.html": "/swaingithub/react_upload.git/index.html",
+    "main.6e3c9636.css.map": "/swaingithub/react_upload.git/static/css/main.6e3c9636.css.map",
+    "main.c97d7e03.js.map": "/swaingithub/react_upload.git/static/js/main.c97d7e03.js.map",
+    "787.0e31295a.chunk.js.map": "/swaingithub/react_upload.git/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e3c9636.css",
+    "static/js/main.c97d7e03.js"
+  ]
+}
